@@ -4,6 +4,6 @@ Just a fun application created to solidify common concepts and best practices us
 
 # Next Steps
 
-- [] Add additional testing
-- [] Add a front-end
-- [] Refactor
+- [ ] Add additional testing
+- [ ] Add a front-end
+- [ ] Refactor
