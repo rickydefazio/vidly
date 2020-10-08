@@ -1,5 +1,4 @@
 const express = require('express');
-const helmet = require('helmet');
 const morgan = require('morgan');
 const home = require('../routes/home');
 const genres = require('../routes/genres');
